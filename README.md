@@ -2,11 +2,12 @@
 
 # 💫 All About Me:
 
-🔭 I’m currently working on : Data Analytics,Python<br>
+🔭Currently, I’m embracing the role of a Data Visualization Intern to gain hands-on experience and enhance my skills, setting the stage for my dream career as a Data Analyst.
 🌱 I’m currently learning and practicing : Advance Excel, SQL, Power BI and Python<br>
 🤔 I’m looking for help with : Improving data visualization skills<br>
 💬 Ask me about: Data analysis,Business intelligence<br>
 📫 How to reach me : shravanthiduddeti@gmail.com
+
 
 
 ## 🌐 Socials:
