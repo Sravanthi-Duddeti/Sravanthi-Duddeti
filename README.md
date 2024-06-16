@@ -1,7 +1,7 @@
 # 💫 About Me:
 I’m currently working on ...<br>Developing advanced data analytics solutions<br>Enhancing my skills in machine learning<br>🌱 I’m currently learning ...<br>Advanced SQL techniques<br>👯 I’m looking to collaborate on ...<br>Data analytics projects<br>Business intelligence initiatives<br>🤔 I’m looking for help with ...<br>Improving data visualization skills<br>💬 Ask me about ...<br>Data analysis<br>Business intelligence
 
-
+**##Portfolio**[![Portfolio](https://codebasics.io/portfolio/Sravanthi-Duddeti)
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sravanthi-duddeti/) 
 
