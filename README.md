@@ -58,7 +58,7 @@ Let's explore possibilities together! ✨
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PowerPoint](https://img.shields.io/badge/-Microsoft%20PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## 🖥️ Portfolio
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=about-dot-me&logoColor=white)](https://yourportfolio.com)
