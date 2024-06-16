@@ -1,6 +1,6 @@
 # Hi there 👋
 
-# 💫 Know About Me:
+# 💫 All About Me:
 
 🔭 I’m currently working on : Data Analytics,Python<br>
 🌱 I’m currently learning and practicing : Advance Excel, SQL, Power BI and Python<br>
