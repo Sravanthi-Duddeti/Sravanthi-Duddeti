@@ -6,7 +6,8 @@ I’m currently working on ...<br>Developing advanced data analytics solutions<b
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sravanthi-duddeti/)
 
 ## 🖥️ Portfolio:
-[![Portfolio](https://example.com/portfolio-image.jpg)](https://codebasics.io/portfolio/Sravanthi-Duddeti)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%230072b5?style=for-the-badge)](https://codebasics.io/portfolio/Sravanthi-Duddeti)
+
 
 
 # 💻 Tech Stack:
