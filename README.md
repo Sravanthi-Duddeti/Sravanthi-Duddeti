@@ -1,9 +1,16 @@
-# 💫 About Me:
-I’m currently working on ...<br>Developing advanced data analytics solutions<br>Enhancing my skills in machine learning<br>🌱 I’m currently learning ...<br>Advanced SQL techniques<br>👯 I’m looking to collaborate on ...<br>Data analytics projects<br>Business intelligence initiatives<br>🤔 I’m looking for help with ...<br>Improving data visualization skills<br>💬 Ask me about ...<br>Data analysis<br>Business intelligence
+# Hi there 👋
+
+# 💫 Know About Me:
+
+🔭 I’m currently working on : Data Analytics,Python<br>
+🌱 I’m currently learning and practicing : Advance Excel, SQL, Power BI and Python<br>
+🤔 I’m looking for help with : Improving data visualization skills<br>
+💬 Ask me about: Data analysis,Business intelligence<br>
+📫 How to reach me : shravanthiduddeti@gmail.com
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sravanthi-duddeti/)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sravanthi-duddeti/)
 
 ## 🖥️ Portfolio:
 [![Portfolio](https://img.shields.io/badge/Portfolio-%230072b5?style=for-the-badge)](https://codebasics.io/portfolio/Sravanthi-Duddeti)
@@ -20,7 +27,7 @@ I’m currently working on ...<br>Developing advanced data analytics solutions<b
 ![PowerPoint](https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sravanthi-Duddeti&theme=swift&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Sravanthi-Duddeti&theme=swift&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sravanthi-Duddeti&theme=swift&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sravanthi-Duddeti&theme=swift&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
