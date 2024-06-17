@@ -6,8 +6,8 @@
 🌱 I’m currently learning and practicing : Advance Excel, SQL, Power BI and Python<br>
 🤔 I’m looking for help with : Improving data visualization skills<br>
 💬 Ask me about: Data analysis,Business intelligence<br>
-📫 How to reach me : shravanthiduddeti@gmail.com
-
+📫 How to reach me : shravanthiduddeti@gmail.com<br>
+🎓 Fun fact: Every skilled data analyst was once a beginner, Keep learning and keep growing!
 
 
 ## 🌐 Socials:
