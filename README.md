@@ -27,6 +27,11 @@
 ![PowerPoint](https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
+# 🛠️ Projects
+Excel [Finance_Sales_Analysis](https://github.com/Sravanthi-Duddeti/Sales-Finance-Analytics)<br>
+Power BI[ Business_Insights_360](https://github.com/Sravanthi-Duddeti/Business_Insights_360)<br>
+SQL Consumer_Goods<br>
+Python
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Sravanthi-Duddeti&theme=swift&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sravanthi-Duddeti&theme=swift&hide_border=false)<br/>
