@@ -32,10 +32,7 @@ Excel [Finance_Sales_Analysis](https://github.com/Sravanthi-Duddeti/Sales-Financ
 Power BI[ Business_Insights_360](https://github.com/Sravanthi-Duddeti/Business_Insights_360)<br>
 SQL Consumer_Goods<br>
 Python
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sravanthi-Duddeti&theme=swift&hide_border=false&include_all_commits=true&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Sravanthi-Duddeti&theme=swift&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sravanthi-Duddeti&theme=swift&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Sravanthi-Duddeti&limit=5&theme=dark&combine_all_yearly_contributions=true)
