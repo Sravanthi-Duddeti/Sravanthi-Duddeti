@@ -13,8 +13,8 @@
 ## 🌐 Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sravanthi-duddeti/)
 
-# 🖥️ [Portfolio_Link](https://codebasics.io/portfolio/Sravanthi-Duddeti):
-
+# 🖥️ Portfolio:
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23D90007.svg?style=for-the-badge&logo=P&logoColor=white)](https://codebasics.io/portfolio/Sravanthi-Duddeti)
 
 # 💻 Tech Stack:
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
