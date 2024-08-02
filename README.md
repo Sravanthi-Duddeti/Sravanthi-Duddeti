@@ -13,8 +13,7 @@
 ## 🌐 Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sravanthi-duddeti/)
 
-## 🖥️ Portfolio:
-
+# 🖥️ [Portfolio](https://codebasics.io/portfolio/Sravanthi-Duddeti):
 
 
 # 💻 Tech Stack:
@@ -30,7 +29,7 @@
 # 🛠️ Projects
 Excel [Finance_Sales_Analysis](https://github.com/Sravanthi-Duddeti/Sales-Finance-Analytics)<br>
 Power BI[ Business_Insights_360](https://github.com/Sravanthi-Duddeti/Business_Insights_360)<br>
-SQL Consumer_Goods<br>
+SQL[ [Consumer_Goods] ](https://github.com/Sravanthi-Duddeti/AD-HOC-INSIGHTS-ON-CONSUMER-GOODS)<BR
 Python
 
 
