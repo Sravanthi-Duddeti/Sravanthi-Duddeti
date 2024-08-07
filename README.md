@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi There 👋 My Name is Sravanthi Duddeti
 
 # 💫 All About Me:
 
