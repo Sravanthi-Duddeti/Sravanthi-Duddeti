@@ -29,7 +29,7 @@
 # 🛠️ Projects
 # Excel [Finance_Sales_Analysis](https://github.com/Sravanthi-Duddeti/Sales-Finance-Analytics)<br>
 # Power BI[ Business_Insights_360](https://github.com/Sravanthi-Duddeti/Business_Insights_360)<br>
-# SQL[Consumer_Goods](https://github.com/Sravanthi-Duddeti/AD-HOC-INSIGHTS-ON-CONSUMER-GOODS)<BR>
+# SQL [Consumer_Goods](https://github.com/Sravanthi-Duddeti/AD-HOC-INSIGHTS-ON-CONSUMER-GOODS)<BR>
 # Python
 
 
