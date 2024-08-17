@@ -9,7 +9,6 @@
 📫 How to reach me : shravanthiduddeti@gmail.com<br>
 🎓 Fun fact: Every skilled data analyst was once a beginner, Keep learning and keep growing!
 
-
 ## 🌐 Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sravanthi-duddeti/) 
 
