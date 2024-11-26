@@ -4,7 +4,7 @@
 
 🔭Currently, I’m embracing the Associate Data Analyst Intern role to gain hands-on experience and enhance my skills, setting the stage for my dream career as a Data Analyst.<br>
 🌱 I’m currently learning and practicing: Advance Excel, SQL, Power BI, and Python<br>
-📫 How to reach m : shravanthiduddeti@gmail.com<br>
+📫 How to reach me: shravanthiduddeti@gmail.com<br>
 🎓 Fun fact: Every skilled data analyst was once a beginner, Keep learning and keep growing!
 
 ## 🌐 Socials:
