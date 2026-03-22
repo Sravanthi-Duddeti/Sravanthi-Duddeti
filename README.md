@@ -2,7 +2,7 @@
 
 # 💫 All About Me:
 
-🔭CCurrently, I’m working as a MIS Analyst, gaining hands-on experience in data handling, reporting, and business insights while building a strong foundation .<br>
+🔭Currently, I’m working as a MIS Analyst, gaining hands-on experience in data handling, reporting, and business insights while building a strong foundation .<br>
 🌱 I’m currently learning and practicing: Advance Excel, SQL, Power BI, and Python<br>
 📫 How to reach me: shravanthiduddeti@gmail.com<br>
 🎓 Fun fact: Every skilled data analyst was once a beginner, Keep learning and keep growing
